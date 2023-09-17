@@ -43,3 +43,4 @@ The dataset used in **Medical English to Spanish Translation APP** is a critical
 pip -q install -r requirements.txt
 streamlit run app.py
 ```
+![Screenshot at 2023-09-17 20-17-31](https://github.com/Kirouane-Ayoub/Med-English-2-Spanish-APP/assets/99510125/ecff076b-9e48-4aa9-a7e5-13fc3b9547ac)
