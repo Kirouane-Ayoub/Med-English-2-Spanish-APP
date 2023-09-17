@@ -1,6 +1,6 @@
 # Medical English to Spanish Translation APP
 
-+ **Model Name:** Med_English2Spanish
++ **Model Name:** Med_English2Spanish **https://huggingface.co/ayoubkirouane/Med_English2Spanish**
 + **Model Type:** Transformer-based Neural Machine Translation (NMT) Model
 + **Task:** English to Spanish Medical Translation
 
