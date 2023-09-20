@@ -1,8 +1,10 @@
 # Medical English to Spanish Translation APP
 
-+ **Model Name:** Med_English2Spanish **https://huggingface.co/ayoubkirouane/Med_English2Spanish**
++ **Model Name:** Med_English2Spanish 
 + **Model Type:** Transformer-based Neural Machine Translation (NMT) Model
 + **Task:** English to Spanish Medical Translation
++ Model : **https://huggingface.co/ayoubkirouane/Med_English2Spanish**
++ Space : **https://huggingface.co/spaces/ayoubkirouane/Medical-English2Spanish-Translation**
 
 ## Description:
 **Medical English to Spanish Translation APP** is a user-friendly web application built with **Streamlit** that harnesses the power of a fine-tuned Transformer-based neural machine translation model. Its primary purpose is to assist medical professionals, researchers, and students in translating medical documents and texts from English to Spanish quickly and accurately.
@@ -48,6 +50,7 @@ streamlit run app.py
 ```
 # or you can use Gradio app 
 cd gradio
+pip -q install -r requirements.txt
 python app.py
 ```
 
