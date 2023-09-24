@@ -55,3 +55,8 @@ python app.py
 ```
 
 ![Screenshot at 2023-09-20 11-37-07](https://github.com/Kirouane-Ayoub/Med-English-2-Spanish-APP/assets/99510125/f1c26626-0291-4be2-bc7e-10d207aae238)
+
+
+### Deployment :
+- **By Kirouane Ayoub**
+
